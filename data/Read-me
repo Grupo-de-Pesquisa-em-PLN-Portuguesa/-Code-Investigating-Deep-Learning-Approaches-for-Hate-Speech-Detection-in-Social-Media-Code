@@ -1,1 +1,3 @@
-São duas bases de dados: a primeira 80k é uma base de dados não processada, contém os tweets coletados durante eapós o periodo eleitora Brasileiro entre os anos 2018-2020. A segunda base de dados hate_speech_ptbr contem apenas os tweets já processados. Ambas não estão balanceadas. 
+São duas bases de dados: a primeira 80k é uma base de dados não processada, 
+contém os tweets coletados durante eapós o periodo eleitora Brasileiro entre os anos 2018-2020. 
+A segunda base de dados hate_speech_ptbr contem apenas os tweets já processados. Ambas não estão balanceadas. 
