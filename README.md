@@ -6,9 +6,11 @@ Topic: **HATE SPEECH DETECTION A DEEP LEARNING BASED APPROACH.**
 
 # Database
 
-We used the social network Twitter to assemble the database used in this research. The data consists of public tweets in the Portuguese-BR language.
+We used the social network Twitter to evaluate the two databasse used in this research. The data consists of public tweets in the Portuguese-BR language.
+The first one, 80k, is an unprocessed database. The second database, hate_speech_ptbr, contains only the processed tweets. Both are unbalanced and containing tweets collected during and after the Brazilian election period between the years 2018-2020.
 
 - Unprocessed database [data/base80k.csv]
+- processed database[hate_speech_ptbr.csv]
 
 # Dictionaries
 
@@ -43,9 +45,10 @@ O presente repositório contém as rotinas utilizadas na pesquisa de conclusão 
 Tema: **DETECÇÃO DE DISCURSO DE ÓDIO UMA ABORDAGEM BASEADA EM APRENDIZADO PROFUNDO**
 
 # Base de dados
-Utilizamos a rede social Twitter para montar a base de dados utilizada nessa pesquisa. Os dados são tuítes públicos no idioma Português-BR.
+Usamos a rede social Twitter para avaliar as duas bases de dados usadas nesta pesquisa. Os dados consistem em tweets públicos no idioma português-BR. A primeira, 80k, é uma base de dados não processada. A segunda base de dados, hate_speech_ptbr, contém apenas os tweets já processados. Ambas estão desbalanceadas e contêm tweets coletados durante e após o período eleitoral brasileiro entre os anos 2018-2020.”
 
 - Base de dados não-processada [data/base80k.csv]
+- Base de dados processada [hate_speech_ptbr.csv]
 
 # Dicionários
 Durante a pesquisa foram gerados alguns dicionários que auxiliaram nas tarefas de pré-processamento dos dados e na classificação desses em **hate** (presença de discurso de ódio), **not_hate** (livre de discurso de ódio), **badword** (presença de linguagem ofensiva) e **not_badword** (livre de linguagem ofensiva).
