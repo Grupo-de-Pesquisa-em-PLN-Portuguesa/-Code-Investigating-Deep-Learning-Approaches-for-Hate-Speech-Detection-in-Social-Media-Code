@@ -10,7 +10,7 @@ We used the social network Twitter to evaluate the two databasse used in this re
 The first one, 80k, is an unprocessed database. The second database, hate_speech_ptbr, contains only the processed tweets. Both are unbalanced and containing tweets collected during and after the Brazilian election period between the years 2018-2020.
 
 - Unprocessed database [data/base80k.csv]
-- processed database[hate_speech_ptbr.csv]
+- Processed database [hate_speech_ptbr.csv]
 
 # Dictionaries
 
