@@ -70,3 +70,8 @@ Redes de aprendizado profundo utilizadas nessa pesquisa
 Baselines da pesquisa
 - Multinomial Naive Bayes [Treinamento_NaiveBayes.ipynb]
 - Shallow Neural Networks (SNN) [Treinamento_ShallowNet.ipynb]
+- 
+
+
+cite as:
+Weitzel, L., Daroz, T.H., Cunha, L.P., Helde, R.V., and Morais, L.M.d.: ‘Investigating Deep Learning Approaches for Hate Speech Detection in Social Media : Portuguese-BR tweets’, in Editor (Ed.)^(Eds.): ‘Book Investigating Deep Learning Approaches for Hate Speech Detection in Social Media : Portuguese-BR tweets’ (IEE xplore, 2023, edn.), pp. 1-5.
