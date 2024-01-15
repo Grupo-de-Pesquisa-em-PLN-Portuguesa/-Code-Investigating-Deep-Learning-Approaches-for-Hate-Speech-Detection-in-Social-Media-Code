@@ -73,6 +73,6 @@ Baselines da pesquisa
 - 
 
 
-CITE AS:
+# CITE AS:
 
 - L. Weitzel, T. H. Daroz, L. P. Cunha, R. V. Helde and L. M. d. Morais, "Investigating Deep Learning Approaches for Hate Speech Detection in Social Media : Portuguese-BR tweets," 2023 18th Iberian Conference on Information Systems and Technologies (CISTI), Aveiro, Portugal, 2023, pp. 1-5, doi: 10.23919/CISTI58278.2023.10211751.
