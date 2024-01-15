@@ -73,5 +73,6 @@ Baselines da pesquisa
 - 
 
 
-cite as:
-Weitzel, L., Daroz, T.H., Cunha, L.P., Helde, R.V., and Morais, L.M.d.: ‘Investigating Deep Learning Approaches for Hate Speech Detection in Social Media : Portuguese-BR tweets’, in Editor (Ed.)^(Eds.): ‘Book Investigating Deep Learning Approaches for Hate Speech Detection in Social Media : Portuguese-BR tweets’ (IEE xplore, 2023, edn.), pp. 1-5.
+CITE AS:
+
+- Weitzel, L., Daroz, T.H., Cunha, L.P., Helde, R.V., and Morais, L.M.d.: ‘Investigating Deep Learning Approaches for Hate Speech Detection in Social Media : Portuguese-BR tweets’, in Editor (Ed.)^(Eds.): ‘Book Investigating Deep Learning Approaches for Hate Speech Detection in Social Media : Portuguese-BR tweets’ (IEE xplore, 2023, edn.), pp. 1-5.
